@@ -1,0 +1,7 @@
+receptor,pdb_id,ligand,best_affinity_kcal_mol
+SpeB,2UZJ,EGCG,-7.574
+SpeB,2UZJ,Quercetin,-5.910
+SpeB,2UZJ,Thymoquinone,-4.578
+SpeA,1B1Z,EGCG,-7.497
+SpeA,1B1Z,Quercetin,-7.123
+SpeA,1B1Z,Thymoquinone,-5.183

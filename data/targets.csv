@@ -1,0 +1,3 @@
+receptor,pdb_id,full_name,site_label,site_resi,note
+SpeB,2UZJ,Streptococcal pyrogenic exotoxin B (SpeB) — cysteine protease,Catalytic dyad Cys47 / His195,47;195,Docked at the catalytic site marked by the bound E64 inhibitor.
+SpeA,1B1Z,Streptococcal pyrogenic exotoxin A (SpeA) — superantigen,Surface (blind docking),,Blind-docked across the protein surface (no single catalytic residue targeted).
